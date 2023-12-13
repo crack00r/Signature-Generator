@@ -15,7 +15,7 @@ if (!file_exists($bildOrdner)) {
 }
 
 
-if (file_exists($bildPfad) && (time() - filemtime($bildPfad)) < 86400) {
+if (file_exists($bildPfad) && (time() - filemtime($bildPfad)) < 604800) {
     readfile($bildPfad);
     exit;
 }
