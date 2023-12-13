@@ -33,7 +33,7 @@ chmod 777 bilder
 
 Um ein Bild zu generieren, gib das Skript mit den entsprechenden GET-Parametern ein. Zum Beispiel:
 
-http://deinedomain.com/script.php?text=HalloWelt&filename=beispielbild
+http://domainorip/unterschrift.php?text=Vorname%20Nachname&filenamevornamw_nachname
 
 ## Lizenz
 
