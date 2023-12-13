@@ -21,7 +21,7 @@ Du brauchst Folgendes, um das Skript zu nutzen:
 
 1. Klone das Repository in dein Webserver-Verzeichnis.
 2. Stelle sicher, dass der Ordner "bilder" existiert und die Berechtigungen 777 hat.
-3. Rufe das Skript über eine URL auf, zum Beispiel: `http://deinedomain.com/script.php?text=DeinText&filename=DeinDateiname`.
+3. Rufe das Skript über eine URL auf, zum Beispiel: `http://domainorip/unterschrift.php?text=Vorname%20Nachname&filename=Vorname%20Nachname`.
 
 ## Dateiberechtigungen
 
